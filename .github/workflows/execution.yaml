@@ -2,7 +2,7 @@ name: ExecutionFlow
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   lint:
     runs-on: ubuntu-latest
