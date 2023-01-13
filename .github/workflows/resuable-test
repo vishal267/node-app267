@@ -2,7 +2,7 @@ name: using Resuable code
 on:
   push:
     branches:
-      - ma
+      - master
 jobs:
   lint:
     runs-on: ubuntu-latest
